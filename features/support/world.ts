@@ -30,7 +30,7 @@ export default class CustomWorld extends World {
       slowMo: 10,
     });
     this.context = await this.browser.newContext({
-      baseURL: "https://aimeerivers.github.io",
+      baseURL: "https://www.druewilding.com",
     });
     this.page = await this.context.newPage();
     this.buttonPage = new ButtonPage(this.page);
