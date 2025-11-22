@@ -1,5 +1,14 @@
 # Changelog
 
+## [4.0.8](https://github.com/druewilding/playwright-cucumber-template/compare/v4.0.7...v4.0.8) (2025-11-22)
+
+
+### Chores
+
+* Update dependencies ([#157](https://github.com/druewilding/playwright-cucumber-template/issues/157)) ([baa3954](https://github.com/druewilding/playwright-cucumber-template/commit/baa3954686fa6d5d879e4d2077ca6db346d74569))
+* Update dependencies ([#160](https://github.com/druewilding/playwright-cucumber-template/issues/160)) ([4ae7b11](https://github.com/druewilding/playwright-cucumber-template/commit/4ae7b1114cca470f79d238f0a0b8e9d9395ae210))
+* Update to use druewilding ([#159](https://github.com/druewilding/playwright-cucumber-template/issues/159)) ([28af05e](https://github.com/druewilding/playwright-cucumber-template/commit/28af05ec13d45cd181195f651dc9a8378ac59435))
+
 ## [4.0.7](https://github.com/druewilding/playwright-cucumber-template/compare/v4.0.6...v4.0.7) (2025-10-09)
 
 
